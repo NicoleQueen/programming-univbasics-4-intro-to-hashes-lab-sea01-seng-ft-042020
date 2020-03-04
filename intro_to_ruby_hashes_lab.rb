@@ -14,7 +14,7 @@ def pioneer
     :name => "Grace Hopper", 
     :hight => "2 inch"
   }
-  my_dags[:name]
+  my_dogs[:name]
 end
 
 def id_generator
