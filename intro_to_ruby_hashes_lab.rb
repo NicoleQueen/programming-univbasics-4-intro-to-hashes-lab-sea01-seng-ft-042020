@@ -11,7 +11,7 @@ end
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
   my_dogs = {
-    "name" => "Grace Hopper", 
+    :name => "Grace Hopper", 
     "hight" => "2 inch"
   }
   my_dags["name"]
