@@ -11,10 +11,10 @@ end
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
   my_dogs = {
-    :name => "Grace Hopper", 
-    :hight => "2 inch"
+    "name" => "Grace Hopper", 
+    "hight" => "2 inch"
   }
-  my_dags[:name]
+  my_dags["name"]
 end
 
 def id_generator
